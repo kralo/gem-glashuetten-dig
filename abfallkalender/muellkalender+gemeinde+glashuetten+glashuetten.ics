@@ -1,0 +1,791 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+METHOD:PUBLISH
+
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE
+
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140123
+DTEND;VALUE=DATE:20140124
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140206
+DTEND;VALUE=DATE:20140207
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140220
+DTEND;VALUE=DATE:20140221
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140306
+DTEND;VALUE=DATE:20140307
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140320
+DTEND;VALUE=DATE:20140321
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140403
+DTEND;VALUE=DATE:20140404
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140416
+DTEND;VALUE=DATE:20140417
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140502
+DTEND;VALUE=DATE:20140503
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140515
+DTEND;VALUE=DATE:20140516
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140530
+DTEND;VALUE=DATE:20140531
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140613
+DTEND;VALUE=DATE:20140614
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140626
+DTEND;VALUE=DATE:20140627
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140710
+DTEND;VALUE=DATE:20140711
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140724
+DTEND;VALUE=DATE:20140725
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140807
+DTEND;VALUE=DATE:20140808
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140821
+DTEND;VALUE=DATE:20140822
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140904
+DTEND;VALUE=DATE:20140905
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140918
+DTEND;VALUE=DATE:20140919
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141002
+DTEND;VALUE=DATE:20141003
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141016
+DTEND;VALUE=DATE:20141017
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141030
+DTEND;VALUE=DATE:20141031
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141113
+DTEND;VALUE=DATE:20141114
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141127
+DTEND;VALUE=DATE:20141128
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141211
+DTEND;VALUE=DATE:20141212
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Gelber Sack (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141224
+DTEND;VALUE=DATE:20141225
+DESCRIPTION:Gelber Sack\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140329
+DTEND;VALUE=DATE:20140330
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140412
+DTEND;VALUE=DATE:20140413
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140426
+DTEND;VALUE=DATE:20140427
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140510
+DTEND;VALUE=DATE:20140511
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140524
+DTEND;VALUE=DATE:20140525
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140607
+DTEND;VALUE=DATE:20140608
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140621
+DTEND;VALUE=DATE:20140622
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140705
+DTEND;VALUE=DATE:20140706
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140719
+DTEND;VALUE=DATE:20140720
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140802
+DTEND;VALUE=DATE:20140803
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140813
+DTEND;VALUE=DATE:20140814
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140827
+DTEND;VALUE=DATE:20140828
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140913
+DTEND;VALUE=DATE:20140914
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20140927
+DTEND;VALUE=DATE:20140928
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141011
+DTEND;VALUE=DATE:20141012
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141025
+DTEND;VALUE=DATE:20141026
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Grünschnitt (letztes Mal im Jahr) (Alle Ortsteile)
+DTSTART;VALUE=DATE:20141108
+DTEND;VALUE=DATE:20141109
+DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Schadstoffmobil (Glashütten)
+DTSTART;VALUE=DATE:20140301T103000
+DTEND;VALUE=DATE:20140301T114500
+DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Schadstoffmobil (Glashütten)
+DTSTART;VALUE=DATE:20140524T131500
+DTEND;VALUE=DATE:20140524T143000
+DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Schadstoffmobil (Glashütten)
+DTSTART;VALUE=DATE:20140830T103000
+DTEND;VALUE=DATE:20140830T114500
+DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Schadstoffmobil (Glashütten)
+DTSTART;VALUE=DATE:20141129T103000
+DTEND;VALUE=DATE:20141129T114500
+DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140121
+DTEND;VALUE=DATE:20140122
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140218
+DTEND;VALUE=DATE:20140219
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140318
+DTEND;VALUE=DATE:20140319
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140415
+DTEND;VALUE=DATE:20140416
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140513
+DTEND;VALUE=DATE:20140514
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140611
+DTEND;VALUE=DATE:20140612
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140708
+DTEND;VALUE=DATE:20140709
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140805
+DTEND;VALUE=DATE:20140806
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140902
+DTEND;VALUE=DATE:20140903
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140930
+DTEND;VALUE=DATE:20141001
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141028
+DTEND;VALUE=DATE:20141029
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141125
+DTEND;VALUE=DATE:20141126
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Papiermüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141223
+DTEND;VALUE=DATE:20141224
+DESCRIPTION:Papier\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140113
+DTEND;VALUE=DATE:20140114
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140127
+DTEND;VALUE=DATE:20140128
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140210
+DTEND;VALUE=DATE:20140211
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140224
+DTEND;VALUE=DATE:20140225
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140310
+DTEND;VALUE=DATE:20140311
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140324
+DTEND;VALUE=DATE:20140325
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140407
+DTEND;VALUE=DATE:20140408
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140422
+DTEND;VALUE=DATE:20140423
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140505
+DTEND;VALUE=DATE:20140506
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140519
+DTEND;VALUE=DATE:20140520
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140602
+DTEND;VALUE=DATE:20140603
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140616
+DTEND;VALUE=DATE:20140617
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140630
+DTEND;VALUE=DATE:20140701
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140714
+DTEND;VALUE=DATE:20140715
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140728
+DTEND;VALUE=DATE:20140729
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140811
+DTEND;VALUE=DATE:20140812
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140825
+DTEND;VALUE=DATE:20140826
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140908
+DTEND;VALUE=DATE:20140909
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20140922
+DTEND;VALUE=DATE:20140923
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141006
+DTEND;VALUE=DATE:20141007
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141020
+DTEND;VALUE=DATE:20141021
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141103
+DTEND;VALUE=DATE:20141104
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141117
+DTEND;VALUE=DATE:20141118
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141201
+DTEND;VALUE=DATE:20141202
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141215
+DTEND;VALUE=DATE:20141216
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+
+BEGIN:VEVENT
+SUMMARY:Hausmüll (Glashütten/Oberems)
+DTSTART;VALUE=DATE:20141229
+DTEND;VALUE=DATE:20141230
+DESCRIPTION:Hausmüll\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+TRANSP:TRANSPARENT
+END:VEVENT
+
+END:VCALENDAR
