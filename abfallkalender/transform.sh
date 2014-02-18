@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #altes masterfile löschen
-rm -v muellkalender+gemeinde+glashuetten+gesamt.ics
+rm muellkalender+gemeinde+glashuetten+gesamt.ics
 
 
 #vorspann fuer masterfile
@@ -12,7 +12,7 @@ cat muellkalender+gemeinde+glashuetten_raw_masterfile.ics.templ >>muellkalender+
 
 
 #Beschreibungen hinzufügen
-sed -i 's$ION:schadstoff$ION:Schadstoffmobil\\nGlashütten, Parkplatz Waldfriedhof\\nOberems, Feuerwehrgerätehaus\\nSchloßborn, Parkplatz hinter Mehrzweckhalle\\n\\nAbfallkalender der Gemeinde Glashütten/Taunus\\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf$g' muellkalender+gemeinde+glashuetten+gesamt.ics
+sed -i 's$ION:schadstoff$ION:Schadstoffmobil\\nGlashütten\\, Parkplatz Waldfriedhof\\nOberems\\, Feuerwehrgerätehaus\\nSchloßborn\\, Parkplatz hinter Mehrzweckhalle\\n\\nAbfallkalender der Gemeinde Glashütten/Taunus\\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf$g' muellkalender+gemeinde+glashuetten+gesamt.ics
 
 sed -i 's$ION:papier$ION:Papier\\nAbfallkalender der Gemeinde Glashütten/Taunus\\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf$g' muellkalender+gemeinde+glashuetten+gesamt.ics
 
@@ -20,7 +20,7 @@ sed -i 's$ION:hausmuell$ION:Hausmüll\\nAbfallkalender der Gemeinde Glashütten/
 
 sed -i 's$ION:gelber_sack$ION:Gelber Sack\\nAbfallkalender der Gemeinde Glashütten/Taunus\\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf$g' muellkalender+gemeinde+glashuetten+gesamt.ics
 
-sed -i 's$ION:Grünschnitt$ION:Grünschnitt\\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\\n\\nAbfallkalender der Gemeinde Glashütten/Taunus\\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf$g' muellkalender+gemeinde+glashuetten+gesamt.ics
+sed -i 's$ION:Grünschnitt$ION:Grünschnitt\\nGlashütten\\, Parkplatz Hobholz: 9.30-10.30 Uhr\\nSchloßborn\\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\\nOberems\\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\\n\\nAbfallkalender der Gemeinde Glashütten/Taunus\\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf$g' muellkalender+gemeinde+glashuetten+gesamt.ics
 
 
 
@@ -65,6 +65,22 @@ cat vorspann.ics.templ muellkalender+gemeinde+glashuetten+schlossborn.ics_1 > mu
 echo "END:VCALENDAR" >> muellkalender+gemeinde+glashuetten+schlossborn.ics
 
 rm muellkalender+gemeinde+glashuetten+schlossborn.ics_1
+
+
+#ical parser anmerkungen
+
+#richtige zeilenendungen
+unix2dos muellkalender+gemeinde+glashuetten+gesamt.ics
+unix2dos muellkalender+gemeinde+glashuetten+glashuetten.ics
+unix2dos muellkalender+gemeinde+glashuetten+oberems.ics
+unix2dos muellkalender+gemeinde+glashuetten+schlossborn.ics
+
+#keine leerzeilen
+sed -i '/^$/d' muellkalender+gemeinde+glashuetten+gesamt.ics
+sed -i '/^$/d' muellkalender+gemeinde+glashuetten+glashuetten.ics
+sed -i '/^$/d' muellkalender+gemeinde+glashuetten+oberems.ics
+sed -i '/^$/d' muellkalender+gemeinde+glashuetten+schlossborn.ics
+
 
 
 

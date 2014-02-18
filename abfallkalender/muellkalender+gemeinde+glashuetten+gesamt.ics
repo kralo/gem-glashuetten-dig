@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
-PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
 VERSION:2.0
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
 METHOD:PUBLISH
 
 BEGIN:VTIMEZONE
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140329
 DTEND;VALUE=DATE:20140330
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140412
 DTEND;VALUE=DATE:20140413
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140426
 DTEND;VALUE=DATE:20140427
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140510
 DTEND;VALUE=DATE:20140511
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140524
 DTEND;VALUE=DATE:20140525
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140607
 DTEND;VALUE=DATE:20140608
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140621
 DTEND;VALUE=DATE:20140622
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140705
 DTEND;VALUE=DATE:20140706
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140719
 DTEND;VALUE=DATE:20140720
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140802
 DTEND;VALUE=DATE:20140803
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140813
 DTEND;VALUE=DATE:20140814
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140827
 DTEND;VALUE=DATE:20140828
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140913
 DTEND;VALUE=DATE:20140914
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20140927
 DTEND;VALUE=DATE:20140928
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20141011
 DTEND;VALUE=DATE:20141012
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (Alle Ortsteile)
 DTSTART;VALUE=DATE:20141025
 DTEND;VALUE=DATE:20141026
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:Grünschnitt (letztes Mal im Jahr) (Alle Ortsteile)
 DTSTART;VALUE=DATE:20141108
 DTEND;VALUE=DATE:20141109
-DESCRIPTION:Grünschnitt\nGlashütten, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DESCRIPTION:Grünschnitt\nGlashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr\nSchloßborn\, Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerwehrgerätehaus: 11.00-12.00 Uhr\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -378,100 +378,100 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Glashütten)
-DTSTART;VALUE=DATE:20140301T103000
-DTEND;VALUE=DATE:20140301T114500
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140301T103000
+DTEND;TZID=Europe/Berlin:20140301T114500
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Schloßborn)
-DTSTART;VALUE=DATE:20140313T090000
-DTEND;VALUE=DATE:20140313T100000
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140313T090000
+DTEND;TZID=Europe/Berlin:20140313T100000
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Oberems)
-DTSTART;VALUE=DATE:20140313T104500
-DTEND;VALUE=DATE:20140313T114500
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140313T104500
+DTEND;TZID=Europe/Berlin:20140313T114500
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Glashütten)
-DTSTART;VALUE=DATE:20140524T131500
-DTEND;VALUE=DATE:20140524T143000
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140524T131500
+DTEND;TZID=Europe/Berlin:20140524T143000
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Schloßborn)
-DTSTART;VALUE=DATE:20140612T111500
-DTEND;VALUE=DATE:20140612T121500
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140612T111500
+DTEND;TZID=Europe/Berlin:20140612T121500
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Oberems)
-DTSTART;VALUE=DATE:20140612T130000
-DTEND;VALUE=DATE:20140612T140000
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140612T130000
+DTEND;TZID=Europe/Berlin:20140612T140000
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Glashütten)
-DTSTART;VALUE=DATE:20140830T103000
-DTEND;VALUE=DATE:20140830T114500
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140830T103000
+DTEND;TZID=Europe/Berlin:20140830T114500
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Schloßborn)
-DTSTART;VALUE=DATE:20140911T090000
-DTEND;VALUE=DATE:20140911T100000
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140911T090000
+DTEND;TZID=Europe/Berlin:20140911T100000
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Oberems)
-DTSTART;VALUE=DATE:20140911T104500
-DTEND;VALUE=DATE:20140911T114500
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20140911T104500
+DTEND;TZID=Europe/Berlin:20140911T114500
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Glashütten)
-DTSTART;VALUE=DATE:20141129T103000
-DTEND;VALUE=DATE:20141129T114500
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20141129T103000
+DTEND;TZID=Europe/Berlin:20141129T114500
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Schloßborn)
-DTSTART;VALUE=DATE:20141211T171500
-DTEND;VALUE=DATE:20141211T181500
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20141211T171500
+DTEND;TZID=Europe/Berlin:20141211T181500
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Schadstoffmobil (Oberems)
-DTSTART;VALUE=DATE:20141211T153000
-DTEND;VALUE=DATE:20141211T163000
-DESCRIPTION:Schadstoffmobil\nGlashütten, Parkplatz Waldfriedhof\nOberems, Feuerwehrgerätehaus\nSchloßborn, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
+DTSTART;TZID=Europe/Berlin:20141211T153000
+DTEND;TZID=Europe/Berlin:20141211T163000
+DESCRIPTION:Schadstoffmobil\nGlashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerätehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nAbfallkalender der Gemeinde Glashütten/Taunus\nhttp://www.gemeinde-glashuetten.de/dateien/Abfallkalender.pdf
 TRANSP:TRANSPARENT
 END:VEVENT
 
