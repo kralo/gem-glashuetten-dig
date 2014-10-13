@@ -10,7 +10,7 @@ Aktuelle Version ist für 2014. Fehler könnten vorkommen, diese Seiten sind nic
 ## Installieren
 Rechtsklick auf einen der folgenden Links und "speichern-unter" wählen. Dann z.B. in Thunderbird Datei->Öffnen->Kalenderdatei.
 
-* [Glashütten](./abfall-2014-glashuetten.ics)
-* [Oberems](./abfall-2014-oberems.ics)
-* [Schlossborn](./abfall-2014-schlossborn.ics)
+* [Glashütten](https://raw.githubusercontent.com/kralo/gem-glashuetten-dig/master/abfallkalender/abfall-2014-glashuetten.ics)
+* [Oberems](https://raw.githubusercontent.com/kralo/gem-glashuetten-dig/master/abfallkalender/abfall-2014-oberems.ics)
+* [Schlossborn](https://raw.githubusercontent.com/kralo/gem-glashuetten-dig/master/abfallkalender/abfall-2014-schlossborn.ics)
 
