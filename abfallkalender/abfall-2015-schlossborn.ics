@@ -4,1001 +4,1001 @@ PRODID:-//abfall-gem-glash//iCal4j 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150108
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125056Z-2015-01-08@192.168.122.1
+UID:12464-2015-01-08@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150122
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125057Z-2015-01-22@192.168.122.1
+UID:12464-2015-01-22@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150205
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125058Z-2015-02-05@192.168.122.1
+UID:12464-2015-02-05@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150219
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125059Z-2015-02-19@192.168.122.1
+UID:12464-2015-02-19@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150305
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125100Z-2015-03-05@192.168.122.1
+UID:12464-2015-03-05@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150319
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125101Z-2015-03-19@192.168.122.1
+UID:12464-2015-03-19@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150401
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125102Z-2015-04-01@192.168.122.1
+UID:12464-2015-04-01@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150416
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125103Z-2015-04-16@192.168.122.1
+UID:12464-2015-04-16@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150430
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125104Z-2015-04-30@192.168.122.1
+UID:12464-2015-04-30@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150515
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125105Z-2015-05-15@192.168.122.1
+UID:12464-2015-05-15@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150529
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125106Z-2015-05-29@192.168.122.1
+UID:12464-2015-05-29@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150611
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125107Z-2015-06-11@192.168.122.1
+UID:12464-2015-06-11@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150625
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125108Z-2015-06-25@192.168.122.1
+UID:12464-2015-06-25@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150709
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125109Z-2015-07-09@192.168.122.1
+UID:12464-2015-07-09@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150723
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125110Z-2015-07-23@192.168.122.1
+UID:12464-2015-07-23@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150806
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125111Z-2015-08-06@192.168.122.1
+UID:12464-2015-08-06@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150820
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125112Z-2015-08-20@192.168.122.1
+UID:12464-2015-08-20@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150903
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125113Z-2015-09-03@192.168.122.1
+UID:12464-2015-09-03@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150917
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125114Z-2015-09-17@192.168.122.1
+UID:12464-2015-09-17@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151001
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125115Z-2015-10-01@192.168.122.1
+UID:12464-2015-10-01@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151015
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125116Z-2015-10-15@192.168.122.1
+UID:12464-2015-10-15@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151029
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125117Z-2015-10-29@192.168.122.1
+UID:12464-2015-10-29@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151112
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125118Z-2015-11-12@192.168.122.1
+UID:12464-2015-11-12@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151126
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125119Z-2015-11-26@192.168.122.1
+UID:12464-2015-11-26@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151210
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125120Z-2015-12-10@192.168.122.1
+UID:12464-2015-12-10@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151223
 DURATION:P1D
 SUMMARY:Gelber Sack (Alle Ortsteile)
-UID:20150207T125121Z-2015-12-23@192.168.122.1
+UID:12464-2015-12-23@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Gelber Sack
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150120
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125122Z-2015-01-20@192.168.122.1
+UID:432-2015-01-20@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150217
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125123Z-2015-02-17@192.168.122.1
+UID:432-2015-02-17@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150317
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125124Z-2015-03-17@192.168.122.1
+UID:432-2015-03-17@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150414
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125125Z-2015-04-14@192.168.122.1
+UID:432-2015-04-14@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150512
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125126Z-2015-05-12@192.168.122.1
+UID:432-2015-05-12@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150609
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125127Z-2015-06-09@192.168.122.1
+UID:432-2015-06-09@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150707
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125128Z-2015-07-07@192.168.122.1
+UID:432-2015-07-07@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150804
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125129Z-2015-08-04@192.168.122.1
+UID:432-2015-08-04@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150901
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125130Z-2015-09-01@192.168.122.1
+UID:432-2015-09-01@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150929
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125131Z-2015-09-29@192.168.122.1
+UID:432-2015-09-29@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151027
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125132Z-2015-10-27@192.168.122.1
+UID:432-2015-10-27@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151124
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125133Z-2015-11-24@192.168.122.1
+UID:432-2015-11-24@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151222
 DURATION:P1D
 SUMMARY:Papier (Schloßborn)
-UID:20150207T125134Z-2015-12-22@192.168.122.1
+UID:432-2015-12-22@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Papier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150105
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125135Z-2015-01-05@192.168.122.1
+UID:4816-2015-01-05@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150116
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125136Z-2015-01-16@192.168.122.1
+UID:4816-2015-01-16@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150130
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125137Z-2015-01-30@192.168.122.1
+UID:4816-2015-01-30@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150213
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125138Z-2015-02-13@192.168.122.1
+UID:4816-2015-02-13@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150227
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125139Z-2015-02-27@192.168.122.1
+UID:4816-2015-02-27@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150313
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125140Z-2015-03-13@192.168.122.1
+UID:4816-2015-03-13@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150327
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125141Z-2015-03-27@192.168.122.1
+UID:4816-2015-03-27@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150410
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125142Z-2015-04-10@192.168.122.1
+UID:4816-2015-04-10@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150424
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125143Z-2015-04-24@192.168.122.1
+UID:4816-2015-04-24@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150508
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125144Z-2015-05-08@192.168.122.1
+UID:416-2015-05-08@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150508
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125145Z-2015-05-08@192.168.122.1
+UID:1248-2015-05-08@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150516
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125146Z-2015-05-16@192.168.122.1
+UID:1248-2015-05-16@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150522
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125147Z-2015-05-22@192.168.122.1
+UID:416-2015-05-22@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150522
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125148Z-2015-05-22@192.168.122.1
+UID:1248-2015-05-22@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150529
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125149Z-2015-05-29@192.168.122.1
+UID:1248-2015-05-29@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150605
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125150Z-2015-06-05@192.168.122.1
+UID:4816-2015-06-05@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150612
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125151Z-2015-06-12@192.168.122.1
+UID:1248-2015-06-12@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150619
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125152Z-2015-06-19@192.168.122.1
+UID:1248-2015-06-19@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150619
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125153Z-2015-06-19@192.168.122.1
+UID:416-2015-06-19@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150626
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125154Z-2015-06-26@192.168.122.1
+UID:1248-2015-06-26@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150703
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125155Z-2015-07-03@192.168.122.1
+UID:1248-2015-07-03@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150703
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125156Z-2015-07-03@192.168.122.1
+UID:416-2015-07-03@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150710
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125157Z-2015-07-10@192.168.122.1
+UID:1248-2015-07-10@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150717
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125158Z-2015-07-17@192.168.122.1
+UID:416-2015-07-17@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150717
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125159Z-2015-07-17@192.168.122.1
+UID:1248-2015-07-17@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150724
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125200Z-2015-07-24@192.168.122.1
+UID:1248-2015-07-24@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150731
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125201Z-2015-07-31@192.168.122.1
+UID:416-2015-07-31@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150731
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125202Z-2015-07-31@192.168.122.1
+UID:1248-2015-07-31@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150807
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125203Z-2015-08-07@192.168.122.1
+UID:1248-2015-08-07@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150814
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125204Z-2015-08-14@192.168.122.1
+UID:416-2015-08-14@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150814
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125205Z-2015-08-14@192.168.122.1
+UID:1248-2015-08-14@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150821
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125206Z-2015-08-21@192.168.122.1
+UID:1248-2015-08-21@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150828
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125207Z-2015-08-28@192.168.122.1
+UID:416-2015-08-28@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150828
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125208Z-2015-08-28@192.168.122.1
+UID:1248-2015-08-28@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150904
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125209Z-2015-09-04@192.168.122.1
+UID:1248-2015-09-04@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150911
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125210Z-2015-09-11@192.168.122.1
+UID:416-2015-09-11@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150911
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125211Z-2015-09-11@192.168.122.1
+UID:1248-2015-09-11@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150918
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125212Z-2015-09-18@192.168.122.1
+UID:1248-2015-09-18@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150925
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125213Z-2015-09-25@192.168.122.1
+UID:416-2015-09-25@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150925
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125214Z-2015-09-25@192.168.122.1
+UID:1248-2015-09-25@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151002
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125215Z-2015-10-02@192.168.122.1
+UID:1248-2015-10-02@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151009
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125216Z-2015-10-09@192.168.122.1
+UID:416-2015-10-09@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151009
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125217Z-2015-10-09@192.168.122.1
+UID:1248-2015-10-09@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151016
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125218Z-2015-10-16@192.168.122.1
+UID:1248-2015-10-16@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151023
 DURATION:P1D
 SUMMARY:Hausmüll (Schloßborn)
-UID:20150207T125219Z-2015-10-23@192.168.122.1
+UID:416-2015-10-23@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151023
 DURATION:P1D
 SUMMARY:Biotonne (Alle Ortsteile)
-UID:20150207T125220Z-2015-10-23@192.168.122.1
+UID:1248-2015-10-23@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151031
 DURATION:P1D
 SUMMARY:Biotonne (Schloßborn)
-UID:20150207T125221Z-2015-10-31@192.168.122.1
+UID:48-2015-10-31@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151106
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125222Z-2015-11-06@192.168.122.1
+UID:4816-2015-11-06@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151120
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125223Z-2015-11-20@192.168.122.1
+UID:4816-2015-11-20@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151204
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125224Z-2015-12-04@192.168.122.1
+UID:4816-2015-12-04@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151218
 DURATION:P1D
 SUMMARY:Biotonne\,Hausmüll (Schloßborn)
-UID:20150207T125225Z-2015-12-18@192.168.122.1
+UID:4816-2015-12-18@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Quelle: Abfallkalender der Gemeinde (http://www.gemeinde-glas
  huetten.de/dateien/Abfallkalender.pdf)
 CATEGORIES:Biotonne,Hausmüll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150328
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125226Z-2015-03-28@192.168.122.1
+UID:124128-2015-03-28@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1007,11 +1007,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150411
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125227Z-2015-04-11@192.168.122.1
+UID:124128-2015-04-11@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1020,11 +1020,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150425
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125228Z-2015-04-25@192.168.122.1
+UID:124128-2015-04-25@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1033,11 +1033,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150509
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125229Z-2015-05-09@192.168.122.1
+UID:124128-2015-05-09@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1046,11 +1046,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150523
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125230Z-2015-05-23@192.168.122.1
+UID:124128-2015-05-23@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1059,11 +1059,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150606
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125231Z-2015-06-06@192.168.122.1
+UID:124128-2015-06-06@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1072,11 +1072,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150704
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125232Z-2015-07-04@192.168.122.1
+UID:124128-2015-07-04@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1085,11 +1085,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150718
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125233Z-2015-07-18@192.168.122.1
+UID:124128-2015-07-18@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1098,11 +1098,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150801
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125234Z-2015-08-01@192.168.122.1
+UID:124128-2015-08-01@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1111,11 +1111,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150815
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125235Z-2015-08-15@192.168.122.1
+UID:124128-2015-08-15@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1124,11 +1124,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150829
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125236Z-2015-08-29@192.168.122.1
+UID:124128-2015-08-29@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1137,11 +1137,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150912
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125237Z-2015-09-12@192.168.122.1
+UID:124128-2015-09-12@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1150,11 +1150,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20150926
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125238Z-2015-09-26@192.168.122.1
+UID:124128-2015-09-26@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1163,11 +1163,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151010
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125239Z-2015-10-10@192.168.122.1
+UID:124128-2015-10-10@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1176,11 +1176,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151024
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125240Z-2015-10-24@192.168.122.1
+UID:124128-2015-10-24@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1189,11 +1189,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART;VALUE=DATE:20151107
 DURATION:P1D
 SUMMARY:Grünschnitt (Alle Ortsteile)
-UID:20150207T125241Z-2015-11-07@192.168.122.1
+UID:124128-2015-11-07@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
   Parkplatz hinter der Mehrzweckhalle: 8.00-9.00 Uhr\nOberems\, Am Feuerw
@@ -1202,11 +1202,11 @@ DESCRIPTION:Glashütten\, Parkplatz Hobholz: 9.30-10.30 Uhr \nSchloßborn\,
 CATEGORIES:Grünschnitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART:20150312T090000
 DURATION:PT1H
 SUMMARY:Schadstoffmobil (Schloßborn)
-UID:20150207T125242Z-2015-03-12@192.168.122.1
+UID:4256-2015-03-12@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerät
  ehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nQuelle: Abfallkal
@@ -1215,11 +1215,11 @@ DESCRIPTION:Glashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerät
 CATEGORIES:Schadstoffmobil
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART:20150611T111500
 DURATION:PT1H
 SUMMARY:Schadstoffmobil (Schloßborn)
-UID:20150207T125243Z-2015-06-11@192.168.122.1
+UID:4256-2015-06-11@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerät
  ehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nQuelle: Abfallkal
@@ -1228,11 +1228,11 @@ DESCRIPTION:Glashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerät
 CATEGORIES:Schadstoffmobil
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART:20150910T090000
 DURATION:PT1H
 SUMMARY:Schadstoffmobil (Schloßborn)
-UID:20150207T125244Z-2015-09-10@192.168.122.1
+UID:4256-2015-09-10@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerät
  ehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nQuelle: Abfallkal
@@ -1241,11 +1241,11 @@ DESCRIPTION:Glashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerät
 CATEGORIES:Schadstoffmobil
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20150207T124716Z
+DTSTAMP:20150207T131613Z
 DTSTART:20151210T171500
 DURATION:PT1H
 SUMMARY:Schadstoffmobil (Schloßborn)
-UID:20150207T125245Z-2015-12-10@192.168.122.1
+UID:4256-2015-12-10@abfall.gemeinde-glashuetten.de
 TRANSP:TRANSPARENT
 DESCRIPTION:Glashütten\, Parkplatz Waldfriedhof\nOberems\, Feuerwehrgerät
  ehaus\nSchloßborn\, Parkplatz hinter Mehrzweckhalle\n\nQuelle: Abfallkal

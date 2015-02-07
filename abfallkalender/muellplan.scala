@@ -27,7 +27,7 @@ val SCHLOSSBORN = BitSet(0x04)
 val ALLEORTSTEILE = GLASHUETTEN ++ OBEREMS ++ SCHLOSSBORN
 
 val BIOTONNE = BitSet(0x08)
-val HAUSMUELL = BitSet(0x0)
+val HAUSMUELL = BitSet(0x10)
 val PAPIER = BitSet(0x20)
 val GELBERSACK = BitSet(0x40)
 val GRUENSCHNITT = BitSet(0x40 * 2)
@@ -278,7 +278,16 @@ def saveCalendar(terminliste: List[Abfuhrtag], dateiname: String) {
     }, eintrag.getDur(), title)
 
     // Generate a UID for the event..
-    event.getProperties().add(new UidGenerator(eintrag.Datum).generateUid());
+    //object myHostInfo extends HostInfo { def getHostName = "abfall.gemeinde-glashuetten.de" }
+    //event.getProperties().add(new UidGenerator(myHostInfo, eintrag.Datum).generateUid());
+    
+    //lets assume we will not have two bitmasks the same day
+    val b = new StringBuilder();
+    b.append(eintrag.Optionen.addString(new StringBuilder));
+    b.append('-');
+    b.append(eintrag.Datum);
+    b.append("@abfall.gemeinde-glashuetten.de");
+    event.getProperties().add(new Uid(b.toString()));
     //set transparency to transparent
     event.getProperties().add(net.fortuna.ical4j.model.property.Transp.TRANSPARENT)
     //add description?
